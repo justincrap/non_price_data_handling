@@ -29,16 +29,22 @@
 # Entry Method
 ## Mean Reversion
 ### No Stoploss
-[MR_NoStopLoss](https://excalidraw.com/#json=RHRFkugmwCoavxw593Ecn,EcJ1v4zEZx1MkuUS3wle2Q)
+MR_NoStopLoss
+![alt text](https://i.imgur.com/UFmH6jQ.png)
 
 ### Has Stoploss
-[MR_StopLoss](https://excalidraw.com/#json=_cl1VVODWupdSQ4zdmEnO,ZY8gYhbBXd-DBtI9bvjkag)
+MR_StopLoss
+![alt text](https://i.imgur.com/YTNyWTS.png)
+
 ## Momentum (Trend Following)
 ### Exit at Threshold
-[Momentum_NotHold](https://excalidraw.com/#json=x1csMLDGGXldSVO9Okn2J,OnDX0FhQ8QEE4C0Ovz1YzQ)
+Momentum_NotHold
+![alt text](https://i.imgur.com/lybNSAR.png)
 
 ### Exit at 另一個Threshold
-[Momentum_Hold](https://excalidraw.com/#json=aczw1B5HRBUmFtktQrSKG,ZF03Fr8NbJcdJxWsdl4VPg)
+Momentum_Hold
+![alt text](https://i.imgur.com/Lcuzxz2.png)
+
 # Data Processing 
 ## Standardization
 - Z-Score (Good for Normal Distributed Data, No Anomaly Data)
